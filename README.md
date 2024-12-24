@@ -2,6 +2,8 @@ Mulch
 =====
 The DivestOS WebView
 
+**Due to LFS limits this repo will not be updated, [check GitLab mirror instead](https://gitlab.com/divested-mobile/mulch)**
+
 Goals
 -----
 - Minimizing anti-features
